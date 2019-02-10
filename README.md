@@ -17,7 +17,7 @@ The 0.332 is a mod of the SCM SPR332 v2 card reader:
 How to make it
 ==============
 
-![Photo of open reader](images/mod.jpg)
+![Photo of open reader](images/open.jpg)
 
 Materials:
 
