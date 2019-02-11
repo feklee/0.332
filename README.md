@@ -36,9 +36,9 @@ Materials:
 
 * smart card in mini SIM format
 
-* 4 × Screws: DIN 912, M2×6 mm
+* 4 × screws: DIN 912, M2×6 mm
 
-* 4 × Nuts: DIN 934, M2
+* 4 × nuts: DIN 934, M2
 
 Tools:
 
