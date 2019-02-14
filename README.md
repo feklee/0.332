@@ -1,7 +1,7 @@
 Introduction
 ============
 
-The 0.332 is a mod of the SCM SPR332 v2 card reader:
+0.332 is a mod of the SCM SPR332 v2 card reader:
 
   * compact 3D printed case
 
@@ -41,6 +41,7 @@ Materials:
 * 4 × nuts: DIN 934, M2
 
 Tools:
+
 
 * soldering equipment
 
